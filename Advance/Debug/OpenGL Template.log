@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\pcp25\onedrive\documents\computergraphic\opengl template\main.cpp(563): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  OpenGL Template.vcxproj -> C:\Users\pcp25\OneDrive\Documents\ComputerGraphic\OpenGL Template\Debug\OpenGL Template.exe
+  OpenGL Template.vcxproj -> C:\Users\pcp25\OneDrive\Documents\ComputerGraphic\OpenGL Template\Debug\OpenGL Template.pdb (Full PDB)
