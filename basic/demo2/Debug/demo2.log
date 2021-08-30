@@ -1,0 +1,7 @@
+﻿  room.cpp
+  main.cpp
+c:\users\pcp25\onedrive\documents\computergraphic\demo2\demo2\main.cpp(41): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\pcp25\onedrive\documents\computergraphic\demo2\demo2\main.cpp(46): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Generating Code...
+  demo2.vcxproj -> C:\Users\pcp25\OneDrive\Documents\ComputerGraphic\demo2\Debug\demo2.exe
+  demo2.vcxproj -> C:\Users\pcp25\OneDrive\Documents\ComputerGraphic\demo2\Debug\demo2.pdb (Full PDB)
